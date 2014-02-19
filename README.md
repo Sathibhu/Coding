@@ -1,4 +1,0 @@
-Coding
-======
-
-Practice Coding
